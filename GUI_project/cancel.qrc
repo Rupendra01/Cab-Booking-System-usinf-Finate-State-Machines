@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>D:/sem 5/FLA/cancel.jpg</file>
+  </qresource>
+</RCC>
